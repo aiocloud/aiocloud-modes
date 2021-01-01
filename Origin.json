@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Origin",
+    "bypass": [],
+    "handle": [
+        "\\\\Origin\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

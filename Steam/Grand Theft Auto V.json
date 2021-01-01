@@ -1,0 +1,12 @@
+{
+    "type": 0,
+    "remark": "Grand Theft Auto V [Steam]",
+    "bypass": [],
+    "handle": [
+        "\\\\Grand Theft Auto V\\\\",
+        "\\\\Social Club\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

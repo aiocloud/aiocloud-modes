@@ -1,0 +1,12 @@
+{
+    "type": 0,
+    "remark": "Tom Clancy's Rainbow Six Siege [Steam]",
+    "bypass": [],
+    "handle": [
+        "\\\\Tom Clancy's Rainbow Six Siege\\\\",
+        "\\\\Ubisoft Game Launcher\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

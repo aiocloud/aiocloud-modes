@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Global",
+    "bypass": [],
+    "handle": [
+        ".*"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

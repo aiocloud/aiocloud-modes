@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Steam Apps",
+    "bypass": [],
+    "handle": [
+        "\\\\steamapps\\\\common\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

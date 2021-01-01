@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Steam",
+    "bypass": [],
+    "handle": [
+        "\\\\Steam\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "PlayerUnknown's Battlegrounds [Steam]",
+    "bypass": [],
+    "handle": [
+        "\\\\PUBG\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

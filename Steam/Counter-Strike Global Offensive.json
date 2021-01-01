@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Counter-Strike: Global Offensive [Steam]",
+    "bypass": [],
+    "handle": [
+        "csgo.exe"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

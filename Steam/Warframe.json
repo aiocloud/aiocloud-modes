@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Warframe [Steam]",
+    "bypass": [],
+    "handle": [
+        "\\\\Warframe\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}

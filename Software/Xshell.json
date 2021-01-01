@@ -1,0 +1,11 @@
+{
+    "type": 0,
+    "remark": "Xshell",
+    "bypass": [],
+    "handle": [
+        "\\\\NetSarang\\\\"
+    ],
+    "filterLoopback": false,
+    "filterTCP": true,
+    "filterUDP": true
+}
