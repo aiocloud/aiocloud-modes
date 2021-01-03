@@ -1,6 +1,6 @@
 {
     "type": 0,
-    "remark": "Warframe [TCP][Steam]",
+    "remark": "Warframe [Steam][TCP]",
     "bypass": [],
     "handle": [
         "\\\\Warframe\\\\"
